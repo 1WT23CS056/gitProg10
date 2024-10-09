@@ -1,8 +1,19 @@
 Title: Ms.
 Full Name: Wajeeha Khan
 USN: 1WT23CS056
+<<<<<<< HEAD
 Semester: III
 Section: B
 Branch: CSE
 Year of admission:2023
 COllege Name: GITW
+=======
+Sem: III
+Section:B
+Branch: CS&E
+Admission: 2023
+College Name: GITW
+10th Grade: SUDARSHAN VIDYA MANDIR ICSE ACADEMY
+UG Degree: B.E -Computer Science & Engg.
+
+>>>>>>> feature-branch
