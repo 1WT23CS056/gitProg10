@@ -6,3 +6,6 @@ Section:B
 Branch: CS&E
 Admission: 2023
 College Name: GITW
+10th Grade: SUDARSHAN VIDYA MANDIR ICSE ACADEMY
+UG Degree: B.E -Computer Science & Engg.
+
